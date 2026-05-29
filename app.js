@@ -16,20 +16,18 @@ const tracks = [
   { name: "Break free - QUEEN", file: "audio/QUEEN - Break free (Narcose).MP3", duration: "3:00" },
   { name: "Addicted to you - NARCOSE", file: "audio/NARCOSE - Addicted to you.mp3", duration: "6:01" },
   { name: "Vortex - EoN", file: "audio/Eon - Vortex 08.04 (version Dam).mp3", duration: "4:00" },
-  { name: "Tout l'amour que j'ai pour toi(Version Echoes)/MORENO", file: "audio/MORENO - Toutt l'amour que j'ai pour toi (Version Echoes).MP3", duration: "1:59" },
-  { name: "Celebrity skin/HOLE", file: "audio/HOLE - Celebrity Skin.mp3", duration: "2:43" },
-  { name: "Sweet dreams/MARILYN MANSON", file: "audio/MARILYN MANSON - Sweet Dreams.mp3", duration: "4:51" },
-  { name: "Nightcall(Version Echoes)/KAVINSKY", file: "audio/KAVINSKI - Nightcall (versin Echoes fin ok).mp3", duration: "5:12" },
-  { name: "Aya/ECHOES", file: "audio/ZOOM0144 - Echoes - Aya - remixée + fin net bla.mp3", duration: "3:50" }, 
-  { name: "In bloom/NIRVANA", file: "audio/NIRVANA - In Bloom.mp3", duration: "4:15" }, 
-  { name: "Banquet/BLOC PARTY", file: "audio/BLOC PARTY - Banquet.m4a", duration: "3:21" }, 
-  { name: "Medley", file: "audio/MEDLEY - Enter rock to hell.mp3", duration: "6:14" }, 
-  { name: "Song2(+0.5)/BLUR", file: "audio/BLUR - Song 2 (+ 0,5 ton).mp3", duration: "2:02" }, 
-  { name: "Cause toujours/ECHOES", file: "audio/ZOOM0236 - Cause toujours 26.05 remixé v1.mp3", duration: "4:29" },
-  { name: "The Pretender(avec presentation Echoes)/FOO FIGHTERS", file: "audio/Foo Fighters - The Pretender (version Echoes).mp3", duration: "6:18" },
-  { name: "Zombie/THE CRANBERRIES", file: "audio/THE CRANBERRIES - Zombie.mp3", duration: "5:07" },
-  { name: "7 Nation army/THE WHITE STRIPES", file: "audio/THE WHITE STRIPES - 7 Nation army (version Echoes).MP3", duration: "3:47" },
-  { name: "Nothing else matters(-1ton)/METALLICA", file: "audio/METALLICA - Nothing Else Matters (-1 ton).mp3", duration: "6:28" }
+  { name: "7 Nation army - THE WHITE STRIPES", file: "audio/THE WHITE STRIPES - 7 Nation army (Narcose).MP3", duration: "6:18" },
+  { name: "Mirroir flou - EoN", file: "audio/ZOOM0197-9-EoN - Mirroir flou", duration: "4:33" },
+  { name: "Comfortably numb - PINK FLOYD", file: "audio/PINK FLOYD - confortably numb (Narcose).mp3", duration: "6:57" },
+  { name: "Namur - NARCOSE", file: "audio/NARCOSE-Namur.mp3", duration: "3:02" },
+  { name: "Le brio - BIG SOUL", file: "audio/BIG SOUL - Le Brio.mp3", duration: "2:06" }, 
+  { name: "Ace of spades - MOTORHEAD", file: "audio/ZOOM0158 - Ace of Spades (normal).mp3", duration: "3:09" }, 
+  { name: "Stitch Jones - NARCOSE", file: "audio/NARCOSE-Stitch Jones.mp3", duration: "6:00" }, 
+  { name: "Cum on feel the noize - SLADE", file: "audio/ZOOM0159- Cum on feel the noize (fin Eon).mp3", duration: "4:51" }, 
+  { name: "Made in China - NARCOSE", file: "audio/NARCOSE-Made in China.mp3", duration: "5:43" }, 
+  { name: "Psycho killer - TALKING HEADS", file: "TALKING HEADS - Psycho Killer3", duration: "4:20" },
+  
+  
     
    
 ];
