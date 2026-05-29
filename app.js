@@ -16,7 +16,7 @@ const tracks = [
   { name: "Break free - QUEEN", file: "audio/QUEEN - Break free (Narcose).mp3", duration: "3:00" },
   { name: "Addicted to you - NARCOSE", file: "audio/NARCOSE - Addicted to you.mp3", duration: "6:01" },
   { name: "Vortex - EoN", file: "audio/Eon - Vortex 08.04 (version Dam).mp3", duration: "4:00" },
-  { name: "7 Nation army - THE WHITE STRIPES", file: "audio/THE WHITE STRIPES - 7 Nation army (Narcose).MP3", duration: "6:18" },
+  { name: "7 Nation army - THE WHITE STRIPES", file: "audio/THE WHITE STRIPES - 7 Nation army (Narcose).mp3", duration: "6:18" },
   { name: "Mirroir flou - EoN", file: "audio/ZOOM0197-9-EoN - Mirroir flou", duration: "4:33" },
   { name: "Comfortably numb - PINK FLOYD", file: "audio/PINK FLOYD - confortably numb (Narcose).mp3", duration: "6:57" },
   { name: "Namur - NARCOSE", file: "audio/NARCOSE-Namur.mp3", duration: "3:02" },
@@ -25,7 +25,7 @@ const tracks = [
   { name: "Stitch Jones - NARCOSE", file: "audio/NARCOSE-Stitch Jones.mp3", duration: "6:00" }, 
   { name: "Cum on feel the noize - SLADE", file: "audio/ZOOM0159- Cum on feel the noize (fin Eon).mp3", duration: "4:51" }, 
   { name: "Made in China - NARCOSE", file: "audio/NARCOSE-Made in China.mp3", duration: "5:43" }, 
-  { name: "Psycho killer - TALKING HEADS", file: "TALKING HEADS - Psycho Killer3", duration: "4:20" },
+  { name: "Psycho killer - TALKING HEADS", file: "TALKING HEADS - Psycho Killer.mp3", duration: "4:20" },
   
   
     
