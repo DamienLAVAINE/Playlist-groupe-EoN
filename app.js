@@ -1,9 +1,9 @@
 const tracks = [
-  { name: "Time is running out/MUSE", file: "audio/MUSE - Time Is Running Out.mp3", duration: "3:56" },
-  { name: "Use somebody/KOL", file: "audio/KINGS OF LEON - Use Somebody.m4a", duration: "3:50" },
-  { name: "Creep(+0.5)/RADIOHEAD", file: "audio/RADIOHEAD - Creep (+0,5 ton).mp3", duration: "3:58" },
-  { name: "Plug in baby/MUSE", file: "audio/MUSE - Plugin baby.mp3", duration: "3:40" },
-  { name: "Can't stop/RHCP", file: "audio/RHCP - Can't Stop.mp3", duration: "4:37" },
+  { name: "Louie Louie - THE KINGSMEN", file: "audio/THE KINGSMEN - Louie louie (Narcose).mp3", duration: "3:18" },
+  { name: "Blietzkrieeg bop - THE RAMONES", file: "audio/ZOOM0110 - Blietzkrieg bop (structure Eon).mp3", duration: "3:55" },
+  { name: "Smoke joke coke - EoN", file: "audio/ZOOM0151 - Smoke Joke Coke (Full Eon).mp3", duration: "4:33" },
+  { name: "I wanna be your dog - THE STROOGES", file: "audio/ZOOM0149 - I wanna be your dog (structure Eon).mp3", duration: "5:44" },
+  { name: "Skyzofunkiller - NARCOSE", file: "audio/NARCOSE-Skyzofunkiller.mp3", duration: "4:20" },
   { name: "Lonely day(+1.5)/SOAD", file: "audio/SOAD - Lonely Day (+1,5 ton)+solo basse.mp3", duration: "2:51" },
   { name: "Shadow of the day(Version Echoes)/LINKIN PARK", file: "audio/LP - Shadow of the day (version Echoes).m4a_mixed 24.01.mp3", duration: "4:20" },
   { name: "Help(Version Echoes)/THE BEATLES", file: "audio/ZOOM0125 - THE BEATLS -Help -(Version Echoes).mp3", duration: "4:00" },
@@ -357,7 +357,7 @@ function draw() {
   energy = energy / bufferLength;
 
   // 🎨 couleur selon énergie
-  let color = "#00ff88"; // 🟢 vert doux
+  let color = "#C00000"; // 🟢 vert doux
 
   if (energy > 170) {
     color = "#ff3b3b"; // 🔴 rouge
