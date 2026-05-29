@@ -13,7 +13,7 @@ const tracks = [
   { name: "I hate you - Verbal abuse", file: "audio/Verbal Abuse - I Hate You (structure EoN).mp3", duration: "3:03" },
   { name: "London calling - THE CLASH", file: "audio/ZOOM0085 - London calling (fin Eon).mp3", duration: "3:41" },
   { name: "Parralel universe - RHCP", file: "audio/ZOOM0197-7-RHCP - Parrallel universe.mp3", duration: "4:34" },
-  { name: "Break free - QUEEN", file: "audio/QUEEN - Break free (Narcose).MP3", duration: "3:00" },
+  { name: "Break free - QUEEN", file: "audio/QUEEN - Break free (Narcose).mp3", duration: "3:00" },
   { name: "Addicted to you - NARCOSE", file: "audio/NARCOSE - Addicted to you.mp3", duration: "6:01" },
   { name: "Vortex - EoN", file: "audio/Eon - Vortex 08.04 (version Dam).mp3", duration: "4:00" },
   { name: "7 Nation army - THE WHITE STRIPES", file: "audio/THE WHITE STRIPES - 7 Nation army (Narcose).MP3", duration: "6:18" },
