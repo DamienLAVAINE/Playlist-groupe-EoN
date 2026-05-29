@@ -119,7 +119,7 @@ align-items: center;
   }
 
 .track.active {
-background: #FFC000;
+background: #C00000;
 color: white;
 font-weight: bold;
 }
@@ -139,7 +139,7 @@ overflow: hidden;
 .progress-bar {
 height: 100%;
 width: 0%;
-background: #FFC000;
+background: #C00000;
 transition: width 0.1s linear;
 }
 
@@ -168,7 +168,7 @@ margin-top: 8px;
 .progress-bar {
 height: 100%;
 width: 0%;
-background: #FFC000;
+background: #C00000;
 border-radius: 10px;
 }
 
@@ -208,7 +208,7 @@ opacity: 1;
 }
 
 #repeat-btn.active {
-  background: #00B0F0;
+  background: #C00000;
   color: black;
 }
 
