@@ -4,7 +4,7 @@ const tracks = [
   { name: "Smoke joke coke - EoN", file: "audio/ZOOM0151 - Smoke Joke Coke (Full Eon).mp3", duration: "4:33" },
   { name: "I wanna be your dog - THE STROOGES", file: "audio/ZOOM0149 - I wanna be your dog (structure Eon).mp3", duration: "5:44" },
   { name: "Skyzofunkiller - NARCOSE", file: "audio/NARCOSE-Skyzofunkiller.mp3", duration: "4:20" },
-  { name: "Lonely day(+1.5)/SOAD", file: "audio/SOAD - Lonely Day (+1,5 ton)+solo basse.mp3", duration: "2:51" },
+  { name: "Margarita baby - EoN", file: "audio/ZOOM0157 - Margarita baby.mp3", duration: "4:00" },
   { name: "Shadow of the day(Version Echoes)/LINKIN PARK", file: "audio/LP - Shadow of the day (version Echoes).m4a_mixed 24.01.mp3", duration: "4:20" },
   { name: "Help(Version Echoes)/THE BEATLES", file: "audio/ZOOM0125 - THE BEATLS -Help -(Version Echoes).mp3", duration: "4:00" },
   { name: "Echoes(tu nous connais pas)/ECHOES", file: "audio/ZOOM0140 - Echoes - Echoes (tu nous connais pas) remixée.mp3", duration: "5:25" },
