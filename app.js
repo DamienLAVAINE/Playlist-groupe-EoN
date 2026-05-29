@@ -17,7 +17,7 @@ const tracks = [
   { name: "Addicted to you - NARCOSE", file: "audio/NARCOSE - Addicted to you.mp3", duration: "6:01" },
   { name: "Vortex - EoN", file: "audio/Eon - Vortex 08.04 (version Dam).mp3", duration: "4:00" },
   { name: "7 Nation army - THE WHITE STRIPES", file: "audio/THE WHITE STRIPES - 7 Nation army (Narcose).mp3", duration: "6:18" },
-  { name: "Mirroir flou - EoN", file: "audio/ZOOM0197-9-EoN - Mirroir flou", duration: "4:33" },
+  { name: "Mirroir flou - EoN", file: "audio/ZOOM0197-9-EoN - Mirroir flou.mp3", duration: "4:33" },
   { name: "Comfortably numb - PINK FLOYD", file: "audio/PINK FLOYD - confortably numb (Narcose).mp3", duration: "6:57" },
   { name: "Namur - NARCOSE", file: "audio/NARCOSE-Namur.mp3", duration: "3:02" },
   { name: "Le brio - BIG SOUL", file: "audio/BIG SOUL - Le Brio.mp3", duration: "2:06" }, 
