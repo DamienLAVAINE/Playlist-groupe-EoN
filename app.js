@@ -9,7 +9,7 @@ const tracks = [
   { name: "Johnny - THIN LIZZY", file: "audio/ZOOM0152 - Johnny (fin Eon).mp3", duration: "4:55" },
   { name: "J'ai raté ma vie - EoN", file: "audio/ZOOM0202 - EoN - J'ai raté ma vie.mp3", duration: "5:25" },
   { name: "In bloom - NIRVANA", file: "audio/ZOOM0198-5- NIRVANA - In Bloom.mp3", duration: "4:06" },
-  { name: "Antarès - EoN", file: "audio/ZOOM0198-4- EoN - Antarès.mp3", duration: "6:19" },
+  { name: "Antarès - EoN", file: "audio/ZOOM0198-4- EoN - Antarès ( fin propre).mp3", duration: "6:19" },
   { name: "I hate you - Verbal abuse", file: "audio/Verbal Abuse - I Hate You (structure EoN).mp3", duration: "3:03" },
   { name: "London calling - THE CLASH", file: "audio/ZOOM0085 - London calling (fin Eon).mp3", duration: "3:41" },
   { name: "Parralel universe - RHCP", file: "audio/ZOOM0197-7-RHCP - Parrallel universe.mp3", duration: "4:34" },
