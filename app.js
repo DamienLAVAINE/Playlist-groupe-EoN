@@ -7,7 +7,7 @@ const tracks = [
   { name: "Margarita baby - EoN", file: "audio/ZOOM0157 - Margarita baby.mp3", duration: "4:00" },
   { name: "Fortunate son - CCR", file: "audio/CCR - fortunate son (Narcose).mp3", duration: "2:40" },
   { name: "Johnny - THIN LIZZY", file: "audio/ZOOM0152 - Johnny (fin Eon).mp3", duration: "4:55" },
-  { name: "J'ai raté ma vie - EoN", file: "audio/ZOOM0202 - EoN - J'ai raté ma vie.mp3", duration: "5:25" },
+  { name: "J'ai raté ma vie - EoN", file: "audio/ZOOM0202 - EoN - J'ai raté ma vie(1).mp3", duration: "4:29" },
   { name: "In bloom - NIRVANA", file: "audio/ZOOM0198-5- NIRVANA - In Bloom.mp3", duration: "4:06" },
   { name: "Antarès - EoN", file: "audio/ZOOM0198-4- EoN - Antarès ( fin propre).mp3", duration: "6:19" },
   { name: "I hate you - Verbal abuse", file: "audio/Verbal Abuse - I Hate You (structure EoN).mp3", duration: "3:03" },
