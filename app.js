@@ -27,7 +27,7 @@ const tracks = [
   { name: "Cum on feel the noize - SLADE", file: "audio/ZOOM0159- Cum on feel the noize (fin Eon).mp3", duration: "4:51" }, 
   { name: "Made in China - NARCOSE", file: "audio/NARCOSE-Made in China.mp3", duration: "5:43" }, 
   { name: "My generation - THE WHO", file: "audio/The Who - My Generation.mp3", duration: "3:27" }, 
-  
+  { name: "Les meufs vénères(Démo) - EoN", file: "audio/EoN - Les meufs venere 4.1.6.mp3", duration: "2:54" }, 
     
    
 ];
