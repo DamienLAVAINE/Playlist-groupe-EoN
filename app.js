@@ -28,9 +28,9 @@ const tracks = [
   { name: "Made in China - NARCOSE", file: "audio/NARCOSE-Made in China.mp3", duration: "5:43" }, 
   { name: "My generation - THE WHO", file: "audio/The Who - My Generation.mp3", duration: "3:27" }, 
   { name: "Les meufs vénères(DémoDam) - EoN", file: "audio/EoN - Les meufs venere 4.1.6.mp3", duration: "2:54" }, 
-  { name: "Flashball(DémoBB) - EoN", file: "audio/Flashball.mp3", duration: "2:54" },
+  { name: "Flashball(DémoBB) - EoN", file: "audio/Flashball.mp3", duration: "3:29" },
   { name: "Souls-Marins(DémoDam) - EoN", file: "audio/EoN - SM3.4.1.mp3", duration: "4:34" },
-  { name: "Dimanche(DémoDam) - EoN", file: "audio/EoN - SM3.4.1.mp3", duration: "4:34" },
+  { name: "Dimanche(DémoDam) - EoN", file: "audio/EoN - Dimanche v2.mp3", duration: "3:20" },
    
 ];
 
