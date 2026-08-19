@@ -26,8 +26,7 @@ const tracks = [
   { name: "Stitch Jones - NARCOSE", file: "audio/NARCOSE-Stitch Jones.mp3", duration: "6:00" }, 
   { name: "Cum on feel the noize - SLADE", file: "audio/ZOOM0159- Cum on feel the noize (fin Eon).mp3", duration: "4:51" }, 
   { name: "Made in China - NARCOSE", file: "audio/NARCOSE-Made in China.mp3", duration: "5:43" }, 
-
-  
+  { name: "My generation - THE WHO", file: "audio/The Who - My Generation.mp3", duration: "3:27" }, 
   
     
    
