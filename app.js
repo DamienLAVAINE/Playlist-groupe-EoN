@@ -29,6 +29,7 @@ const tracks = [
   { name: "My generation - THE WHO", file: "audio/The Who - My Generation.mp3", duration: "3:27" }, 
   { name: "Rock the casbah - THE CLASH", file: "audio/The Clash - Rock the Casbah.mp3", duration: "3:42" }, 
   { name: "Les meufs vénères(Mix démo / record 02.09) - EoN", file: "audio/EoN - Les meufs venere 5.1.mp3", duration: "3:16" }, 
+   { name: "Les meufs vénères(Mix démo / record 02.09) - EoN", file: "audio/EoN - Les meufs venere 5.1 sans voix.mp3", duration: "3:16" }, 
   { name: "Souls-Marins(DémoDam) - EoN", file: "audio/EoN - SM3.4.1.mp3", duration: "4:34" },
   { name: "Dimanche(DémoDam) - EoN", file: "audio/EoN - Dimanche v2.mp3", duration: "3:20" },   
   { name: "Mots pour maux (DémoDam) - EoN", file: "audio/EoN - EoN - Mots pour Maux v8 (Démo Dam).mp3", duration: "5:01" },   
