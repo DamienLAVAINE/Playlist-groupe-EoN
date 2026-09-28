@@ -27,9 +27,9 @@ const tracks = [
   { name: "Les meufs vénères(record 27.09) - EoN", file: "audio/ZOOM0298 - EoN - Les meufs Vener - 1er enregistrement.mp3", duration: "4:13" }, 
   
 
-  { name: "Souls-Marins(DémoDam) - EoN", file: "audio/EoN - SM3.4.1.mp3", duration: "4:34" },
-  { name: "Dimanche(DémoDam) - EoN", file: "audio/EoN - Dimanche v2.mp3", duration: "3:20" },   
-  { name: "Mots pour maux (DémoDam) - EoN", file: "audio/EoN - EoN - Mots pour Maux v8 (Démo Dam).mp3", duration: "5:01" },   
+  { name: "Souls-Marins(DémoDam) - EoN", file: "audio/EoN - SM3.4.1.mp3", duration: "0:00" },
+  { name: "Dimanche(DémoDam) - EoN", file: "audio/EoN - Dimanche v2.mp3", duration: "0:00" },   
+  { name: "Mots pour maux (DémoDam) - EoN", file: "audio/EoN - EoN - Mots pour Maux v8 (Démo Dam).mp3", duration: "0:00" },   
 ];
 
 
