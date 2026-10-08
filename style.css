@@ -228,5 +228,12 @@ opacity: 1;
 
   border-radius: 10px;
 
+  .download-btn { 
+font-weight: bold; 
+padding: 8px 14px; 
+white-space: nowrap; 
+}
+
+
   background: rgba(255,255,255,0.05);
 }
