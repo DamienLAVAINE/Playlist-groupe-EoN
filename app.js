@@ -29,6 +29,8 @@ const tracks = [
   { name: "Les meufs vénères(record 27.09) - EoN", file: "audio/ZOOM0298 - EoN - Les meufs Vener - 1er enregistrement.mp3", duration: "4:13" }, 
   { name: "Souls-Marins(DémoDam) - EoN", file: "audio/EoN - SM3.4.1.mp3", duration: "0:00" },
   { name: "Mots pour maux (DémoBB/Dam) - EoN", file: "audio/EoN - EoN - Mots pour Maux v8 (Démo Dam).mp3", duration: "0:00" }, 
+  { name: "ACABadabra (DémoBB) - EoN", file: "audio/ACABadabra.m4a", duration: "4:21" }, 
+  { name: "ACABadabra sans basse (DémoBB) - EoN", file: "audio/ACABadabra sans basse.mp3", duration: "4:21" }, 
 
 ];
 
