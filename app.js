@@ -30,8 +30,8 @@ const tracks = [
   { name: "Souls-Marins(DémoDam) - EoN", file: "audio/EoN - SM3.4.1.mp3", duration: "0:00" },
   { name: "Mots pour maux (DémoBB/Dam) - EoN", file: "audio/EoN - EoN - Mots pour Maux v8 (Démo Dam).mp3", duration: "0:00" }, 
   { name: "ACABadabra (DémoBB) - EoN", file: "audio/ACABadabra.m4a", duration: "4:21" }, 
-  { name: "ACABadabra sans basse (DémoBB) - EoN", file: "audio/ACABadabra sans basse.mp3", duration: "4:21" }, 
-
+  { name: "Flashball (DémoBB) - EoN", file: "audio/Flashball V2.mp3", duration: "4:03" }, 
+  { name: "Dolorès (DémoBB) - EoN", file: "audio/Dolorès.mp3", duration: "3:17" }, 
 ];
 
 
