@@ -27,6 +27,7 @@ const tracks = [
   { name: "Ace of spades - MOTORHEAD", file: "audio/ZOOM0158 - Ace of Spades (normal).mp3", duration: "3:09" }, 
   { name: "I hate you - Verbal abuse", file: "audio/Verbal Abuse - I Hate You (structure EoN).mp3", duration: "3:03" },
   { name: "Les meufs vénères(record 27.09) - EoN", file: "audio/ZOOM0298 - EoN - Les meufs Vener - 1er enregistrement.mp3", duration: "4:13" }, 
+  { name: "Souls-Marins(Record 11.11) - EoN", file: "audio/ZOOM0413 - SM 11.11_mix.mp3", duration: "6:30" },
   { name: "Souls-Marins(DémoDam) - EoN", file: "audio/EoN - SM3.4.1.mp3", duration: "0:00" },
   { name: "Mots pour maux (DémoBB/Dam) - EoN", file: "audio/EoN - Mots pour Maux v8 (Démo Dam).mp3", duration: "5:01" }, 
   { name: "ACABadabra (DémoBB) - EoN", file: "audio/ACABadabra.m4a", duration: "4:21" }, 
